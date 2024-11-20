@@ -11008,6 +11008,7 @@ html {
 }
 .portfolio .portfolio-item .portfolio-item-background {
   padding: 20px;
+  min-height: 200px;
 }
 .portfolio .portfolio-item .portfolio-item-caption {
   position: absolute;
