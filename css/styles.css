@@ -11015,6 +11015,7 @@ html {
   opacity: 1;
 }
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
+  padding:20px;
   font-size: 1.5rem;
 }
 
