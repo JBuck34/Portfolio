@@ -11004,6 +11004,10 @@ html {
   overflow: hidden;
   padding-top: 20px;
   padding-bottom: 20px;
+  min-height: 200px;
+}
+.portfolio .portfolio-item .portfolio-item-background {
+  padding: 20px;
 }
 .portfolio .portfolio-item .portfolio-item-caption {
   position: absolute;
@@ -11038,8 +11042,12 @@ html {
 }
 
 .footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
   padding-top: 30px;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
   background-color: #2c3e50;
   color: #fff;
 }
