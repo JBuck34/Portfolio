@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Welcome to my personal portfolio! This is where I showcase my skills as a Data Analyst, featuring various data analysis projects and visualisations. Explore my work and feel free to contact me!
+Welcome to my personal portfolio! This is where I showcase my skills in data, featuring various analysis and machine learning projects. Explore my work and feel free to contact me!
 
 ## Technologies Used
 
